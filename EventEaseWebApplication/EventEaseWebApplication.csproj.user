@@ -12,6 +12,6 @@
     <WebStackScaffolding_IsReferencingScriptLibrariesSelected>True</WebStackScaffolding_IsReferencingScriptLibrariesSelected>
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>EventEaseWebApplication.Models.EventEaseDbContextcs</WebStackScaffolding_DbContextTypeFullName>
-    <NameOfLastUsedPublishProfile>C:\Users\Mfundo langelihle\Desktop\CLVD6211part1Mfundo\EventEaseWebApplication\Properties\PublishProfiles\WebAppPart1 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\Mfundo langelihle\Desktop\Part2\EventEaseWebApplication\Properties\PublishProfiles\EventEaseAppMfundo - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

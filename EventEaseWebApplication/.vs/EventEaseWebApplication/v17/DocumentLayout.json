@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Mfundo langelihle\\Desktop\\Part2\\EventEaseWebApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC29B20C-CC8F-41E7-8AB9-63168D95E2D2}|EventEaseWebApplication.csproj|c:\\users\\mfundo langelihle\\desktop\\part2\\eventeasewebapplication\\views\\venue\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DC29B20C-CC8F-41E7-8AB9-63168D95E2D2}|EventEaseWebApplication.csproj|solutionrelative:views\\venue\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC29B20C-CC8F-41E7-8AB9-63168D95E2D2}|EventEaseWebApplication.csproj|c:\\users\\mfundo langelihle\\desktop\\part2\\eventeasewebapplication\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC29B20C-CC8F-41E7-8AB9-63168D95E2D2}|EventEaseWebApplication.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DC29B20C-CC8F-41E7-8AB9-63168D95E2D2}|EventEaseWebApplication.csproj|c:\\users\\mfundo langelihle\\desktop\\part2\\eventeasewebapplication\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC29B20C-CC8F-41E7-8AB9-63168D95E2D2}|EventEaseWebApplication.csproj|solutionrelative:controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC29B20C-CC8F-41E7-8AB9-63168D95E2D2}|EventEaseWebApplication.csproj|c:\\users\\mfundo langelihle\\desktop\\part2\\eventeasewebapplication\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC29B20C-CC8F-41E7-8AB9-63168D95E2D2}|EventEaseWebApplication.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC29B20C-CC8F-41E7-8AB9-63168D95E2D2}|EventEaseWebApplication.csproj|c:\\users\\mfundo langelihle\\desktop\\part2\\eventeasewebapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC29B20C-CC8F-41E7-8AB9-63168D95E2D2}|EventEaseWebApplication.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC29B20C-CC8F-41E7-8AB9-63168D95E2D2}|EventEaseWebApplication.csproj|c:\\users\\mfundo langelihle\\desktop\\part2\\eventeasewebapplication\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC29B20C-CC8F-41E7-8AB9-63168D95E2D2}|EventEaseWebApplication.csproj|solutionrelative:models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC29B20C-CC8F-41E7-8AB9-63168D95E2D2}|EventEaseWebApplication.csproj|c:\\users\\mfundo langelihle\\desktop\\part2\\eventeasewebapplication\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC29B20C-CC8F-41E7-8AB9-63168D95E2D2}|EventEaseWebApplication.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,68 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Venue.cs",
-              "DocumentMoniker": "C:\\Users\\Mfundo langelihle\\Desktop\\Part2\\EventEaseWebApplication\\Models\\Venue.cs",
-              "RelativeDocumentMoniker": "Models\\Venue.cs",
-              "ToolTip": "C:\\Users\\Mfundo langelihle\\Desktop\\Part2\\EventEaseWebApplication\\Models\\Venue.cs",
-              "RelativeToolTip": "Models\\Venue.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T10:13:09.204Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mfundo langelihle\\Desktop\\Part2\\EventEaseWebApplication\\Views\\Venue\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Venue\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Mfundo langelihle\\Desktop\\Part2\\EventEaseWebApplication\\Views\\Venue\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Venue\\Edit.cshtml",
-              "ViewState": "AgIAACYAAAAAAAAAAAAswEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T17:33:42.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Mfundo langelihle\\Desktop\\Part2\\EventEaseWebApplication\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Mfundo langelihle\\Desktop\\Part2\\EventEaseWebApplication\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T05:58:33.511Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EventController.cs",
-              "DocumentMoniker": "C:\\Users\\Mfundo langelihle\\Desktop\\Part2\\EventEaseWebApplication\\Controllers\\EventController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EventController.cs",
-              "ToolTip": "C:\\Users\\Mfundo langelihle\\Desktop\\Part2\\EventEaseWebApplication\\Controllers\\EventController.cs",
-              "RelativeToolTip": "Controllers\\EventController.cs",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAUwBgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T12:03:25.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "VenueController.cs",
               "DocumentMoniker": "C:\\Users\\Mfundo langelihle\\Desktop\\Part2\\EventEaseWebApplication\\Controllers\\VenueController.cs",
               "RelativeDocumentMoniker": "Controllers\\VenueController.cs",
               "ToolTip": "C:\\Users\\Mfundo langelihle\\Desktop\\Part2\\EventEaseWebApplication\\Controllers\\VenueController.cs",
               "RelativeToolTip": "Controllers\\VenueController.cs",
-              "ViewState": "AgIAAK8AAAAAAAAAAAAuwLkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAALIAAAAAAAAAAAAuwMIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T11:57:09.376Z",
               "EditorCaption": ""
@@ -108,7 +41,7 @@
               "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
               "ToolTip": "C:\\Users\\Mfundo langelihle\\Desktop\\Part2\\EventEaseWebApplication\\Controllers\\BookingController.cs",
               "RelativeToolTip": "Controllers\\BookingController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwC4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAUwOQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T19:43:40.27Z",
               "EditorCaption": ""

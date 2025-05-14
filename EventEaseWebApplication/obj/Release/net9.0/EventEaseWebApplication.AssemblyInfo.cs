@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EventEaseWebApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bef73c3eeb4dbe4f320e638a8dfcaed817d249d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98dd49442416a56350d102e08b5535986780ed12")]
 [assembly: System.Reflection.AssemblyProductAttribute("EventEaseWebApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EventEaseWebApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
